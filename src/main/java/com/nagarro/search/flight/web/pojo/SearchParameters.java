@@ -51,5 +51,5 @@ public class SearchParameters {
 	public void setOutputPreferrence(String outputPreferrence) {
 		this.outputPreferrence = outputPreferrence;
 	}
-
+	// To check scm polling trigger on jenkins
 }
